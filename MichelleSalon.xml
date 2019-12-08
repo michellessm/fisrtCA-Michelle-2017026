@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MichelleSalon>
+  <section name="Lashes">
+    <entree>
+      <item>Classic set</item>
+      <price>50</price>
+    </entree>
+    <entree>
+      <item>Classic set refill</item>
+      <price>35</price>
+    </entree>
+    <entree>
+      <item>Classic half set</item>
+      <price>35</price>
+    </entree>
+    <entree>
+      <item>Classic half set refill</item>
+      <price>25</price>
+    </entree>
+    <entree>
+      <item>2D-3D volume set</item>
+      <price>75</price>
+    </entree>
+    <entree>
+      <item>4D-5D volume set</item>
+      <price>90</price>
+    </entree>
+  </section>
+  <section name="Wax">
+    <entree>
+      <item>Eyebrow</item>
+      <price>8</price>
+    </entree>
+    <entree>
+      <item>Lip</item>
+      <price>8</price>
+    </entree>
+    <entree>
+      <item>Underarm</item>
+      <price>12</price>
+    </entree>
+    <entree>
+      <item>Half leg</item>
+      <price>18</price>
+    </entree>
+    <entree>
+      <item>Full leg</item>
+      <price>25</price>
+    </entree>
+    <entree>
+      <item>Bikini</item>
+      <price>20</price>
+    </entree>
+  </section>
+  <section name="Nails">
+    <entree>
+      <item>Acrylic extensions</item>
+      <price>50</price>
+    </entree>
+    <entree>
+      <item>Extension refill</item>
+      <price>40</price>
+    </entree>
+    <entree>
+      <item>Shellac hand</item>
+      <price>18</price>
+    </entree>
+    <entree>
+      <item>Shellac toe</item>
+      <price>20</price>
+    </entree>
+    <entree>
+      <item>Spa manicure and shellac</item>
+      <price>35</price>
+    </entree>
+    <entree>
+      <item>Spa pedicure and shellac</item>
+      <price>38</price>
+    </entree>
+  </section>
+  <section name="Massages">
+    <entree>
+      <item>Hot Oil Massage 30min</item>
+      <price>30</price>
+    </entree>
+    <entree>
+      <item>Traditional Thai Massage 30min</item>
+      <price>30</price>
+    </entree>
+    <entree>
+      <item>Couple Massage 30min</item>
+      <price>50</price>
+    </entree>
+    <entree>
+      <item>Hot Stone Massage 30min</item>
+      <price>40</price>
+    </entree>
+  </section>
+</MichelleSalon>
